@@ -1,4 +1,4 @@
-# JPEG to ASCII
+# IMAGE to ASCII
 
 ### Using: 
     ~./app filePath.jpg
